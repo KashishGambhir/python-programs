@@ -1,0 +1,6 @@
+#i=int(input("Enter leftmost digit:"))
+j=int(input("Enter the next digit:"))
+k=int(input("Enter the next digit:"))
+l=int(input("Enter the next digit:"))
+a=(i*(2**0))+(j*(2**1))+(k*(2**2))+(l*(2**3))
+print("the value is",a)

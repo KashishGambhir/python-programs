@@ -1,0 +1,5 @@
+a store charges rs. 12 per item if u buy <10 items if bt 10 n 99 cost is 10... if u buy 100 or more than 100 then charges=7
+
+wap that ask user how many items are they buying n print the total cost
+
+wap that counts how many square of the number from 1 to 100 end in 4 && 9.

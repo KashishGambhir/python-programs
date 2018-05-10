@@ -1,0 +1,12 @@
+top view
+vertical 
+traversal
+horizontal
+t
+print top to bottom
+common ensester
+position element
+circumference tree
+heught of trree
+check bst
+     
